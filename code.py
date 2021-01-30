@@ -1,3 +1,4 @@
+#Question:- to count charactor in string which occures only once?
 st="aabasgdhbc"
 count=0
 st=sorted(st)
